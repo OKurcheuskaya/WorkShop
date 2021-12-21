@@ -1,8 +1,12 @@
 # WorkShop
-# in project used:
+ in project used:
 
-# -clean architecture
-# -Retrofit
-# -MVVW
-# -Coroutines
-# -LiveData
+ -clean architecture
+
+-Retrofit
+
+-MVVW
+
+-Coroutines
+
+-LiveData
